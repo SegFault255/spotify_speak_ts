@@ -1,0 +1,29 @@
+{
+  "name": "spotify_speak_ts",
+  "version": "1.0.0",
+  "description": "Announce the currently playing spotify song",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "tsc --build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SegFault255/spotify_speak_ts.git"
+  },
+  "author": "Brad Gray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SegFault255/spotify_speak_ts/issues"
+  },
+  "homepage": "https://github.com/SegFault255/spotify_speak_ts#readme",
+  "engines": {
+    "node": ">=12.x.x",
+    "yarn": ">=1.22.x"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^14.10.1",
+    "eslint": "^7.8.1"
+  }
+}
